@@ -1,11 +1,18 @@
 # Smart To-Do App
 
-This is a simple Python application to manage daily tasks.
+A simple but powerful Python application to manage daily tasks with priorities.
 
-## Features
+## 🚀 Features
 - Add tasks
+- Set priority (High, Medium, Low)
 - View tasks
-- Simple interface
+- Delete tasks
 
-## Technologies
+## 🛠️ Technologies
 - Python
+
+## 📌 How to Run
+1. Install Python
+2. Run the file:
+   ```bash
+   python main.py
